@@ -70,4 +70,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 ### Live Hosting
-This project has been hosted with Firebase Google Console. To visit the website, click here: (https://netflix-clone-f870e.web.app/)
+This project has been hosted with Firebase Google Console. To visit the website, click here: (https://netflix-clone-reactjs.netlify.app/)
